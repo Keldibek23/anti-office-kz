@@ -1,0 +1,27 @@
+
+
+/* Animation delays */
+
+#text1{
+  animation-delay: 0.5s;
+}
+
+
+#text2{
+  animation-delay: 0.5s;
+}
+
+h1 {
+  text-align: center;  
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.p {
+  text-align: center;
+}
+
+.p a {
+  text-decoration: underline;
+}
